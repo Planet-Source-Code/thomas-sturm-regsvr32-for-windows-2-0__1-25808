@@ -1,0 +1,5 @@
+frmMain = 44, 44, 707, 618, Z, 22, 22, 685, 596, C
+mdlRegUnreg = 66, 66, 729, 640, 
+frmBrowse = 154, 154, 817, 728, , 132, 132, 795, 706, C
+mdlParseCommandLine = 162, 162, 644, 600, 
+mdlRegistry = 162, 162, 644, 600, 
